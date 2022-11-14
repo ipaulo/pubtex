@@ -15,11 +15,6 @@ It roughly works as follows:
 
 You also get this nice front page for free :)
 
-### Some examples
-
-* [Paper](https://jonhue.github.io/pubtex/paper.pdf)
-* [Slides](https://jonhue.github.io/pubtex/slides.pdf)
-* [Handout](https://jonhue.github.io/pubtex/slides_handout.pdf)
 
 ### Usage
 

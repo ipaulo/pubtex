@@ -10,11 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Compile and Deploy
-        uses: jonhue/pubtex-action@main
+        uses: ipaulo/pubtex-action@main
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           files: |
-            examples/paper.tex
-            examples/slides.tex
-          handouts: |
-            examples/slides.tex
+            Dwarf Therapist.tex
+
